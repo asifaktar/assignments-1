@@ -53,14 +53,10 @@ p{
     background: rgb(13, 19, 33);
 }
 /* main style */
-/* 
-.t-1{
-    font-size:30px ;
-} */
+
 .contant{
     position: relative;
-    /* width: 1000px; */
-    height: 1150px;
+    height: 1200px;
     padding: 60px 70px;
     margin: 50px 100px ;
     border-radius: 16px;
@@ -81,21 +77,90 @@ p{
 }
  .img-1{
     display: flex;
+    margin-top: 50px;
  }
 
  .para-1{
     float: left;
+    padding: 60px 70px;
+    
  }
 
+ h5{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 20px;
+ }
 
+p{
+    color: rgb(97, 101, 108);
+    margin-top: 32px;
+}
 
+.btn-2{
+    font-size: 20px;
+    color: rgb(103, 104, 109);;
+    height: 50px;
+    width: 150px;
+    margin-top:32px;
+    border: 1px solid rgb(143, 146, 154);
+}
 
+.para-2{
+    float: right;
+    padding: 60px  70px;
+    margin-right: 100px;
+}
 
+.img-2{
+    margin-left: 35px;
+    margin-top: 25px;
+}
 
+.btn-3{
+    font-size: 20px;
+    color: rgb(103, 104, 109);;
+    height: 50px;
+    width: 150px;
+    margin-top:32px;
+    border: 1px solid rgb(143, 146, 154);
+}
 
+.para-3{
+    float: left;
+    padding: 60px  70px;
+    
+}
 
+.btn-4{
+    font-size: 20px;
+    color: rgb(103, 104, 109);;
+    height: 50px;
+    width: 150px;
+    margin-top:32px;
+    border: 1px solid rgb(143, 146, 154);
+}
 
+.img-3{
+    margin-top: 20px;
+    margin-right: 0px;
+}
 
+/* footer style */
+
+.footer-1{
+    text-align: center;
+}
+
+.vid{
+    border-radius: 10px;
+    margin-top: 40px;
+    border: 1px solid black;
+}
+
+.target{
+    text-align: center;
+    margin-top: 50px;
+}
 
 
 
