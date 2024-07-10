@@ -206,29 +206,41 @@ p{
     text-align: center;
     padding: 50px;
     height: 280px;
-    width: 875px;
+    width: 770px;
      margin-top: 40px;
-    justify-content: center;
-    align-items: center;
     border-radius: 15px;
     background-size: cover;
-    background-image: url(../assets/handshake.jpg);
+    background-image: url(../assets/handshake.jpg);śśśś
 }
 
 .support{
-    margin-top: 20px;
+    
     display: flex;
-    /* background-size: cover;
-    background-repeat:no-repeat ;
-    background-image: url(../assets/handshake.jpg); */
+    justify-content: center;
+    align-items: center;
+    
 }
 
-.text{
+.footer-4{
     margin-top: 40px;
-    /* height: 50px;
-    width: 400px; */
+    height: 25px;
+    width: 220px;
+    padding: 5px;
+    cursor: text;
+    border-radius: 5px;
+    border: none;
 } 
 
+.footer-5{
+    cursor: pointer;
+    margin-top: 50px;
+    height: 38px;
+    width: 70px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    
+} 
 
 
 
